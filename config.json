@@ -1,6 +1,24 @@
 {
-    "links": {
-        "bg": "https://uploaddeimagens.com.br/images/004/193/227/original/logo.jpg?1669744876",
-        "btn": "https://uploaddeimagens.com.br/images/004/193/329/original/haltere.png?1669747700"
+    "bg": "https://uploaddeimagens.com.br/images/004/193/227/original/logo.jpg?1669744876",
+    "btn": "https://uploaddeimagens.com.br/images/004/193/329/original/haltere.png?1669747700",
+
+    "botoes": {
+        "instagram": {
+            "url": "https://www.instagram.com/academiareddragon/",
+            "logo": "https://img.icons8.com/color/48/null/instagram-new--v1.png",
+            "span": ""
+        },  
+        "whatsapp": {
+            "url": "https://api.whatsapp.com/send?phone=5496212645",
+            "logo": "https://img.icons8.com/color/48/null/whatsapp--v1.png",
+            "span": "(54) 9621-2645"
+        }
+    },
+    "Links": {
+        "Home": "#",
+        "A Red Dragon": "#",
+        "Nossos Produtos": "#",
+        "Planos": "#",
+        "Contato": "#"
     }
 }

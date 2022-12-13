@@ -53,7 +53,7 @@ export default function SearchBar(){
             <StyledSearch>
             <input type="text"/>
             <button>
-                <img className="btn" src={config.links.btn}/>
+                <img className="btn" src={config.btn}/>
             </button>
         </StyledSearch>
         </StylerBoxCenter>  

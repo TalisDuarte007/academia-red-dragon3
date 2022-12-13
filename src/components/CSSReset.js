@@ -9,7 +9,7 @@ export const CSSReset = createGlobalStyle`
   }
   body {
     font-family: sans-serif;
-    background-color: white;
+    background-color: #414343;
     color: black;
   }
   /* NextJS */
