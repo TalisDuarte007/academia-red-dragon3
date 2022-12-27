@@ -8,7 +8,6 @@ const StyledPlanos = styled.div`
     align-items: center;
     justify-content: center;
     margin-top: 50px;
-    background-color: #3a3a39; // #414343;
     padding: 20px 150px;
     p{
         font-size: 40px;
@@ -79,11 +78,6 @@ const StyledPlanos = styled.div`
             flex-direction: column;
             
         }
-
-        span{
-            font-size: 18px;
-        }
-
         .preco{
             font-size: 19px;
             font-weight: 500;

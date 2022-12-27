@@ -4,6 +4,7 @@ import Links from "./components/links";
 
 const StyledMenu = styled.div`
     display: flex;
+    background-color: #3a3a39;
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
