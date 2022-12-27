@@ -5,7 +5,7 @@ import SearchBar from "../src/components/Search-Bar"
 import exercicios from "../exercicios.json";
 import config from "../config.json";
 import Timeline from "../src/components/Timeline";
-import Menu from "../src/components/Menu";
+import Menu from "../src/components/menu";
 import Planos from "../src/components/planos";
 
 const StyledPage = styled.div`
