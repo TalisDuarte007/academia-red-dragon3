@@ -27,8 +27,8 @@ function HomePage() {
                 <Menu config={config} />
                 <StyledMainPage>
                     <Header/>
-                    <Planos config={config.Planos}/>
-                    <SearchBar />
+                    <Planos textos={config.Textos} horarios={config.Horarios} config={config.Planos}/>
+                    {/* <SearchBar /> */}
                     {/* <Timeline exercicios={exercicios}/> */}
                 </StyledMainPage>
                 
