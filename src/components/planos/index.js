@@ -13,7 +13,7 @@ const StyledPlanos = styled.div`
     
     p{
         font-size: 40px;
-        color: red;
+        color: #f34336;
         font-weight: 500;
     }
     div{
@@ -25,10 +25,11 @@ const StyledPlanos = styled.div`
     }
     .cardPlanos{
         flex-direction: column;
-        background-color: #262228;
+        background-color: #2d2d2c;
+        box-shadow: 3px 3px 2px 1px black;
         width: 250px;
         height: 500px;
-        border: 0.8px solid red;
+        border: 0.8px solid #f34336;
         border-radius: 10px;
         align-items: center;
         gap: 20px;
@@ -41,7 +42,7 @@ const StyledPlanos = styled.div`
         }
         
         span{
-            color: red;
+            color: #f34336;
             font-size: 16px;
         }
         .preco{
@@ -51,7 +52,8 @@ const StyledPlanos = styled.div`
     .cardPlanos:last-child{
         width: 280px;
         height: 530px;
-        border: 3px solid red;
+        border: 2px solid #f34336;
+        box-shadow: 8px 8px 2px 1px black;
 
         span{
             font-size: 18px;
@@ -59,7 +61,7 @@ const StyledPlanos = styled.div`
 
         .preco{
             font-size: 24px;
-            font-weight: bold;
+            font-weight: 500;
         }
     }
 `;

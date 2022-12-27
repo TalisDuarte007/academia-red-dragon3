@@ -11,7 +11,6 @@ const StyledLinks = styled.div`
 }
 .span-links:hover{
     border-bottom: solid 3px #f34336 ;
-    color: red;
     text-decoration: none;
 }
 
