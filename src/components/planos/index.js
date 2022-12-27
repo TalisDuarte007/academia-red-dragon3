@@ -4,10 +4,11 @@ import styled from "styled-components";
 const StyledPlanos = styled.div`
     display: flex;
     flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.6);
     justify-content: space-between;
     align-items: center;
     justify-content: center;
-    margin-top: 50px;
+    padding-top: 50px;
     padding: 20px 150px;
     p{
         font-size: 40px;
