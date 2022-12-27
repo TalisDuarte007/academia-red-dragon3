@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import produtos from "../../../../pages/Produtos";
 
 const StyledLinks = styled.div`
 
