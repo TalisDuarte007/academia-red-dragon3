@@ -4,13 +4,13 @@ const StyledLinks = styled.div`
 
 .span-links{
     font-size: 18px;
-    color: red;
+    color: #f34336;
     margin-left: 50px;
     border: solid 2px transparent ;
     padding: 5px;
 }
 .span-links:hover{
-    border-bottom: solid 3px red ;
+    border-bottom: solid 3px #f34336 ;
     color: red;
     text-decoration: none;
 }

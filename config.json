@@ -22,13 +22,26 @@
         "Contato": "#"
     },
     "Planos": {
-        "3x por semana": {
-            "Mensal": "Valor",
-            "Semestral": "Valor"
+        "3x mensal": {
+            "nome": "3x por semana",
+            "forma":"Pagamento Mensal",
+            "valor": "R$59,90"
+            
         },
-        "Livre": {
-            "Mensal": "Valor",
-            "Semestral": "Valor"
+        "3x semestral": {
+            "nome": "3x por semana",
+            "forma":"Pagamento Semestral",
+            "valor": "R$49,90"            
+        },
+        "Livre mensal": {
+            "nome": "Livre",
+            "forma":"Pagamento Mensal",
+            "valor": "R$79,90"
+        },
+        "Livre semestral": {
+            "nome": "Livre",
+            "forma":"Pagamento Semestral",
+            "valor": "R$69,90"
         }
     }
 }

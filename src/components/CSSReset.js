@@ -11,6 +11,7 @@ export const CSSReset = createGlobalStyle`
     font-family: sans-serif;
     background-color: #3a3a39;
     color: black;
+    display: flex;
   }
   /* NextJS */
   html {
