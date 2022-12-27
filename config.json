@@ -20,5 +20,15 @@
         "Nossos Produtos": "#",
         "Planos": "#",
         "Contato": "#"
+    },
+    "Planos": {
+        "3x por semana": {
+            "Mensal": "Valor",
+            "Semestral": "Valor"
+        },
+        "Livre": {
+            "Mensal": "Valor",
+            "Semestral": "Valor"
+        }
     }
 }

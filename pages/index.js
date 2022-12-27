@@ -6,6 +6,7 @@ import exercicios from "../exercicios.json";
 import config from "../config.json";
 import Timeline from "../src/components/Timeline";
 import Menu from "../src/components/Menu";
+import Planos from "../src/components/planos";
 
 const StyledPage = styled.div`
   display: flex;
@@ -26,6 +27,7 @@ function HomePage() {
                 <Menu config={config} />
                 <StyledMainPage>
                     <Header/>
+                    <Planos config={config.Planos}/>
                     <SearchBar />
                     <Timeline exercicios={exercicios}/>
                 </StyledMainPage>

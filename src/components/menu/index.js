@@ -6,7 +6,7 @@ const StyledMenu = styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #3a3a39; // #414343;
+    align-items: baseline;
     padding: 20px 150px;
 `;
 

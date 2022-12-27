@@ -6,7 +6,7 @@ const StyledBanner =  styled.div`
     background: url(${config.bg}) center;
     background-size: cover;
     min-height: 230px;
-    height: 65vh;
+    height: 61vh;
 `;
 
 export default function Header(){

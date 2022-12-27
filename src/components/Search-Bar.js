@@ -43,7 +43,6 @@ const StyledSearch = styled.div`
 const StylerBoxCenter = styled.div`
     height: 35vh;
     display: flex;
-    background-color: #313131;
 `;
 
 
