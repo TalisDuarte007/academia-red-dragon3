@@ -29,7 +29,7 @@ function HomePage() {
                     <Header/>
                     <Planos config={config.Planos}/>
                     <SearchBar />
-                    <Timeline exercicios={exercicios}/>
+                    {/* <Timeline exercicios={exercicios}/> */}
                 </StyledMainPage>
                 
             </StyledPage>
