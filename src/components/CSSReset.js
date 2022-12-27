@@ -14,7 +14,7 @@ export const CSSReset = createGlobalStyle`
     background-color: #3a3a39;
     color: black;
     display: flex;
-    background: url(https://media.istockphoto.com/id/1303559463/pt/foto/carbon-fiber-texture-new-technology-background.jpg?s=612x612&w=0&k=20&c=HkmwvbPNWx9Spme5jHX07KprEccEdpvFSgeav5qwZkg=) repeat center center fixed;
+    background: url(https://uploaddeimagens.com.br/images/004/275/823/original/%E2%80%94Pngtree%E2%80%94carbon_fiber_modern_dark_black_1576247.png?1672181168) repeat center center fixed;
   }
   /* NextJS */
   html {
